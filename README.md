@@ -4,3 +4,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex001.c)
 
+#### 2- Escreva um programa que contenha duas variáveis inteiras. Compare seus endereços e exiba o maior endereço.
+
+[Resposta](./ExerciciosResolvidos/ex002.c)
+
