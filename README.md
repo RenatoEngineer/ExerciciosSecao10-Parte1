@@ -32,3 +32,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex008.c)
 
+#### 9- Crie um programa que contenha uma matriz de float contendo 3 linhas e 3 colunas. Imprima o endereço de cada posição dessa matriz.
+
+[Resposta](./ExerciciosResolvidos/ex009.c)
+
