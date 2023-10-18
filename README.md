@@ -52,3 +52,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex013.c)
 
+#### 14- Crie uma função que receba dois parâmetros: um array e um valor do mesmo tipo do array. A função deverá preencher os elementos de array com esse valor. Não utilize índices para percorrer o array, apenas aritmética de ponteiros.
+
+[Resposta](./ExerciciosResolvidos/ex014.c)
+
