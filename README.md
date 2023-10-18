@@ -56,3 +56,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex014.c)
 
+#### 15- Crie uma função que receba como parâmetro um array e o imprima. Não utilize índices para percorrer o array, apenas aritmética de ponteiros.
+
+[Resposta](./ExerciciosResolvidos/ex015.c)
+
