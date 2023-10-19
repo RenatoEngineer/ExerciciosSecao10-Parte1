@@ -60,3 +60,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex015.c)
 
+#### 16- Considere a seguinte declaração: int A, *B, **C, ***D; Escreva um programa que leia a variável e calcule e exiba o dobro, o triplo e o quadruplo desse valor utilizando apenas os ponteiros B, C e D. O ponteiro B deve ser usada para calcular o dobro, C o triplo e D o quadruplo.
+
+[Resposta](./ExerciciosResolvidos/ex016.c)
+
