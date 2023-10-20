@@ -69,3 +69,11 @@
 
 [Resposta](./ExerciciosResolvidos/ex017.c)
 
+#### 18- Implemente uma função que calcule a área da superfície e o volume de uma esfera de raio R. Essa função deve obedecer ao protótipo:
+<p><strong><em>void calc_esfera (float R, float *area, float *volume)</em></strong></p>
+<p><strong>A área da superfície e o volume são dados, respectivamente, por:</strong></p>
+<p><strong>A = 4 * p * R²</strong><br>
+<strong>V = 4/3 * p * R³</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex018.c)
+
