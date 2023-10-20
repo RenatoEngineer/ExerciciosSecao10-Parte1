@@ -81,3 +81,8 @@
 
 [Resposta](./ExerciciosResolvidos/ex019.c)
 
+#### 20- Implemente uma função que receba como parâmetro um array de números reais de tamanho N e retorne quantos números negativos há nesse array. Essa função deve obedecer ao protótipo:
+<p><strong><em>int negativos (float *vet, int N);</em></strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex020.c)
+
