@@ -102,3 +102,9 @@
 
 [Resposta](./ExerciciosResolvidos/ex024.c)
 
+#### 25- Faça um programa que possua uma função para
+<p><strong>• ler 2 notas e retorná-las por parâmetro (chamar uma função dedicada a ler 2 notas válidas e que devolver os 2 números lidos);</strong></p>
+<p><strong>• calcular a média simples e a média ponderada e retorná-las por parâmetro, onde a segunda nota tem peso 2 media_ponderada = (n1 + n2 * 2)/3;</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex025.c)
+
