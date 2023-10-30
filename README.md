@@ -108,3 +108,21 @@
 
 [Resposta](./ExerciciosResolvidos/ex025.c)
 
+#### 26- Implemente uma função que calcule as raízes de uma equação do segundo grau do tipo Ax²+Bx+C=0. Lembrando que:
+<p><strong>X = -B±√Δ/2A</strong></p>
+<p></p>
+<p><strong>Onde</strong></p>
+<p><strong>Δ =B²−4AC</strong></p>
+<p></p>
+<p><strong>A variável A tem que ser diferente de zero.</strong></p>
+<p><strong>•Se Δ < 0 não existe real.</strong></p>
+<p><strong>•Se Δ = 0 existe uma raiz real.</strong></p>
+<p><strong>•Se Δ ≥ 0 existem duas raízes reais.</strong></p>
+<p></p>
+<p><strong>Essa função deve obedecer ao seguinte protótipo:</strong></p>
+<p><strong><em>int raizes (float A, float B, float C, float * X1, float * X2);</em></strong></p>
+<p></p>
+<p><strong>Essa função deve ter como valor de retorno o número de raízes reais e distintas da equação. Se existirem raízes reais, seus valores devem ser armazenados nas variáveis apontadas por X1 e X2.</strong></p>
+
+[Resposta](./ExerciciosResolvidos/ex026.c)
+
